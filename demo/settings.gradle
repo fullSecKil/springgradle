@@ -1,0 +1,6 @@
+rootProject.name = 'demo'
+rootProject.name = 'demo'
+
+include('tools-common')
+include('service-demo1')
+include('views-demo')
